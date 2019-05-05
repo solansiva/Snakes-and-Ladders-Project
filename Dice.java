@@ -14,7 +14,7 @@ import java.util.Random;
 /*
  * Models a set of dice
  *
- * @author Schramm
+ *
  */
 public class Dice {
     private Random random;
